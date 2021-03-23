@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\bin\Debug\XCoolFormTest.exe
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\bin\Debug\XCoolFormTest.pdb
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\obj\Debug\XCoolFormTest.frmCoolForm.resources
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\obj\Debug\XCoolFormTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\obj\Debug\XCoolFormTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\obj\Debug\XCoolFormTest.exe
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\obj\Debug\XCoolFormTest.pdb
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\bin\Debug\XCoolFormTest.exe.config
+C:\Users\Administrator\Desktop\Csharp\XCoolForm_demo\XCoolFormTest\XCoolFormTest\obj\Debug\XCoolFormTest.csprojResolveAssemblyReference.cache
